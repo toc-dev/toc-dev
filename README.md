@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @toc-dev
 - 👀 I’m interested in C#, JavaScript, Python, React and Solidity.
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on React and Solidity
+- 🌱 I’m currently learning working with ASP.NET core
+- 💞️ I’m looking to collaborate on backend projects with ASP.NET core
 - 📫 How to reach me twitter @tochukwusage
 
 <!---
